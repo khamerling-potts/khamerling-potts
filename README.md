@@ -4,7 +4,7 @@
 
 :dancers: I strive to foster a culture where each team member can collaboratively engage in goal-setting and enable the free exchange of ideas which is essential to overcoming challenges. Whether in a technical or research capacity, I show open-mindedness, empathy, and tactfulness towards each conversation and relationship. 
 
-:keyboard: In addition to my interpersonal approaches, I am also a huge code lover. I enrolled in Flatiron School’s intensive Software Engineering Bootcamp to pursue a non-traditional trajectory into tech, which has only reaffirmed my passion for software engineering. 
+:keyboard: I am also a huge code lover. I enrolled in Flatiron School’s intensive Software Engineering Bootcamp to pursue a non-traditional trajectory into tech, which has only reaffirmed my passion for software engineering. 
 
 :woman_technologist: I am seeking SWE apprenticeships, full-time roles, or internships that encourage personal and professional growth. As a woman making a career change into software engineering, I am particularly interested in collaborating with equity-minded organizations that value diversity and innovation.
 
