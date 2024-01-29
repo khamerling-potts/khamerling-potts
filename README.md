@@ -8,7 +8,7 @@
 
 :woman_technologist: I am seeking SWE apprenticeships, full-time roles, or internships that encourage personal and professional growth. As a woman making a career change into software engineering, I am particularly interested in collaborating with equity-minded organizations that value diversity and innovation.
 
-### Connext with me :mailbox:
+### Connect with me :mailbox:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kyra-hamerling-potts/)
 [<img align="left" alt="dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/khamerling-potts)
 
