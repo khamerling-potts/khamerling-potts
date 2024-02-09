@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
   <img src="https://icongr.am/devicon/java-plain.svg?size=40&color=000000"/>
   <img src="https://icongr.am/devicon/cplusplus-plain.svg?size=40&color=000000"/>
+  <img src="https://icongr.am/devicon/postgresql-plain.svg?size=40&color=currentColor"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="40" height="40"/>
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/>
@@ -35,6 +36,8 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/large/eclipse-logo-black-and-white.png" width="40" height="40"/>
   <img src="https://icongr.am/devicon/atom-original.svg?size=40&color=000000"/>
   <img src="https://icongr.am/devicon/nodejs-plain.svg?size=40&color=000000"/>
+
+
 </p>
 <!--
 **khamerling-potts/khamerling-potts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
