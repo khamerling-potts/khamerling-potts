@@ -1,6 +1,6 @@
 ### Hello! I'm Kyra Hamerling-Potts
 
-:handshake: I am a full stack software engineer skilled in JavaScript, React, and Python with Flask. I have a background in suicide prevention and clinical psychology research that inspired attunement and cooperation as both a colleague and friend.
+:handshake: I am a full stack software engineer skilled in JavaScript, React, and Python with Flask. I have a background in suicide prevention, clinical psychology research, and computer science. 
 
 :dancers: I strive to foster a culture where each team member can collaboratively engage in goal-setting and enable the free exchange of ideas which is essential to overcoming challenges. Whether in a technical or research capacity, I show open-mindedness, empathy, and tactfulness towards each conversation and relationship. 
 
