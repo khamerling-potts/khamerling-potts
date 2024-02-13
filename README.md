@@ -2,11 +2,13 @@
 
 :handshake: I am a full stack software engineer skilled in JavaScript, React, and Python with Flask. I have a background in suicide prevention, clinical psychology research, and computer science. 
 
-:dancers: I strive to foster a culture where each team member can collaboratively engage in goal-setting and enable the free exchange of ideas which is essential to overcoming challenges. Whether in a technical or research capacity, I show open-mindedness, empathy, and tactfulness towards each conversation and relationship. 
+:dancers: Whether in a technical or research capacity, I show open-mindedness, empathy, and tactfulness towards each conversation and relationship. 
 
 :keyboard: I am also a huge code lover. I enrolled in Flatiron School’s intensive Software Engineering Bootcamp to pursue a non-traditional trajectory into tech, which has only reaffirmed my passion for software engineering. 
 
 :woman_technologist: I am seeking SWE apprenticeships, full-time roles, or internships that encourage personal and professional growth. As a woman making a career change into software engineering, I am particularly interested in collaborating with equity-minded organizations that value diversity and innovation.
+
+🔎 Currently working on a full stack platform that allows users to lend and borrow in their community. Utilizes JS, React, Python, and Postgresql so users can claim listings, post their own items/services to lend, rate others, and manage their activities on their own accounts (identity and access management).
 
 ### Connect with me :mailbox:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kyra-hamerling-potts/)
