@@ -8,7 +8,7 @@
 
 :woman_technologist: I am seeking SWE apprenticeships, full-time roles, or internships that encourage personal and professional growth. As a woman making a career change into software engineering, I am particularly interested in collaborating with equity-minded organizations that value diversity and innovation.
 
-🔭 Currently working on a full stack platform that allows users to lend and borrow in their community. Utilizes JS, React, Python, and Postgresql so users can claim listings, post their own items/services to lend, rate others, and manage their activities on their own accounts (identity and access management).
+🔭 Currently working on a full stack health management mobile app (routines, appointments, medications, etc.). Utilizes JS, React Native, Python, Postgresql, and Flask-SQLAlchemy.
 
 ### Connect with me :mailbox:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kyra-hamerling-potts/)
