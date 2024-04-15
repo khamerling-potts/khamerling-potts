@@ -30,6 +30,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-plain.svg" width="40" height="40"/>
   <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/>
   <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" alt="react nav" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="40" height="40"/>
+          
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-plain.svg" width="40" height="40"/>
   <img src="https://icongr.am/devicon/github-original.svg?size=40&color=000000"/>
