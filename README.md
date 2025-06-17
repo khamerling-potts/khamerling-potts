@@ -6,9 +6,7 @@
 
 :keyboard: I am also a huge code lover. I enrolled in Flatiron School’s intensive Software Engineering Bootcamp to pursue a non-traditional trajectory into tech, which has only reaffirmed my passion for software engineering. 
 
-:woman_technologist: I am seeking SWE apprenticeships, full-time roles, or internships that encourage personal and professional growth. As a woman making a career change into software engineering, I am particularly interested in collaborating with equity-minded organizations that value diversity and innovation.
-
-🔭 Currently working on a full stack health management mobile app (routines, appointments, medications, etc.). Utilizes JS, React Native, Python, Postgresql, and Flask-SQLAlchemy.
+:woman_technologist: I am currently the Lead Software Engineer (full stack) for a B2B construction equipment company. 
 
 ### Connect with me :mailbox:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kyra-hamerling-potts/)
