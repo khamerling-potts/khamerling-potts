@@ -6,7 +6,7 @@
 
 :keyboard: I am also a huge code lover. I enrolled in Flatiron School’s intensive Software Engineering Bootcamp to pursue a non-traditional trajectory into tech, which has only reaffirmed my passion for software engineering. 
 
-:woman_technologist: I am currently the Lead Software Engineer (full stack) for a B2B construction equipment company. 
+:woman_technologist: I am currently the lead developer for a B2B industrial distribution company, currently focused on AI integration and fullstack development. 
 
 ### Connect with me :mailbox:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kyra-hamerling-potts/)
